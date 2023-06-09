@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ProfilePhoto.aspx.cs" Inherits="SampleApplication.ProfilePhoto" Async="true" %>
